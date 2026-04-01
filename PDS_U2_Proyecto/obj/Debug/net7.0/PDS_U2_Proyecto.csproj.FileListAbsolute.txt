@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\bin\Debug\net7.0\PDS_U2_Proyecto.exe
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\bin\Debug\net7.0\PDS_U2_Proyecto.deps.json
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\bin\Debug\net7.0\PDS_U2_Proyecto.runtimeconfig.json
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\bin\Debug\net7.0\PDS_U2_Proyecto.dll
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\bin\Debug\net7.0\PDS_U2_Proyecto.pdb
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\obj\Debug\net7.0\PDS_U2_Proyecto.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\obj\Debug\net7.0\PDS_U2_Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\obj\Debug\net7.0\PDS_U2_Proyecto.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\obj\Debug\net7.0\PDS_U2_Proyecto.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\obj\Debug\net7.0\PDS_U2_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\obj\Debug\net7.0\PDS_U2_Proyecto.dll
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\obj\Debug\net7.0\refint\PDS_U2_Proyecto.dll
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\obj\Debug\net7.0\PDS_U2_Proyecto.pdb
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\obj\Debug\net7.0\PDS_U2_Proyecto.genruntimeconfig.cache
+C:\Users\DELL\source\repos\PDS_U2_Proyecto\PDS_U2_Proyecto\obj\Debug\net7.0\ref\PDS_U2_Proyecto.dll
